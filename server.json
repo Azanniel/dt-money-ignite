@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 2100,
       "createdAt": "2023-03-26T21:36:50.938Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Trabalho",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-03-31T23:19:42.879Z",
+      "id": 4
+    },
+    {
+      "description": "Misto quente",
+      "category": "Comida",
+      "price": 6,
+      "type": "outcome",
+      "createdAt": "2023-04-02T02:15:36.738Z",
+      "id": 5
     }
   ]
 }
